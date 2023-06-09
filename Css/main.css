@@ -1,0 +1,22 @@
+h1{
+    color:black;
+}
+h2{
+    color:black;
+    font-size: 30px;
+}
+body{
+    background-color:pink;
+}
+section{
+    color:black;
+    background-color:aquamarine;
+}
+
+.N1{
+    font-size: 18px;
+}
+
+.N2{
+    font-size: 14px;
+}

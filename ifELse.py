@@ -68,6 +68,3 @@
 #     print("****")
 
 #6
-number=int(input("Enter number: "))
-number1=input("Enter symbol: ")
-
