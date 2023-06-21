@@ -64,13 +64,13 @@ fruits = {'Apple','Banana','Cherry'}
 
 # print(result)
 
-list = [12,32,523,34,78,56,3,5,8,123]
-result = []
+# list = [12,32,523,34,78,56,3,5,8,123]
+# result = []
 
-for element in list:
-    if element<list[0]:
-        result.append(element)
-    else:
-        result.append(element)
+# for element in list:
+#     if element<list[0]:
+#         result.append(element)
+#     else:
+#         result.append(element)
 
-print(result)
+# print(result)
